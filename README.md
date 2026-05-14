@@ -8,4 +8,4 @@ branching, merging, and reverting in Git.
 - Conflict handling
 - History control
 ## Status
-Project is under active development.
+Project is under accamot.
